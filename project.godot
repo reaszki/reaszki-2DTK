@@ -18,6 +18,10 @@ config/version="1.0alpha"
 config/quit_on_go_back=false
 config/features=PackedStringArray("4.3", "Forward Plus")
 
+[autoload]
+
+Game="*res://reaszki-R2DTK/game.gd"
+
 [display]
 
 window/stretch/mode="canvas_items"
