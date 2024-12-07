@@ -1,0 +1,7 @@
+Entity
+CharacterBody2D
+PointLight2D
+CanvasModulate
+TileMapLayer
+Camera2D
+TileMap
